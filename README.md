@@ -10,7 +10,7 @@ Add submodule to your repository:
 git submodule add git@github.com:shihkuanglee/ASVspf-em.git em
 ```
 
-Then, import the library:
+Then the library is now able to be import:
 ```
 import em.eval_metrics_2019 as em
 ```
@@ -18,4 +18,4 @@ import em.eval_metrics_2019 as em
 
 ### Licensing
 
-This repository is licensed under the [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/), which is identy to the licence of the implementation provide by ASVspoof.
+This repository is licensed under the [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/), which is same to the licence of the implementation provide by ASVspoof.
