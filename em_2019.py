@@ -1,5 +1,5 @@
 import numpy as np
-import eval_metrics_2019 as em
+from em import eval_metrics_2019 as em
 
 def get_eer(bona__cm, spoof_cm):
 
