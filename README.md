@@ -3,6 +3,12 @@ This repository aims to provide a library on github that can be used as a github
 The file `eval_metrics_2019.py` is a copy of `eval_metrics.py` from the implementation provide by ASVspoof, it is used in [ASVspoof2019](https://www.asvspoof.org/index2019.html).
 
 
+### Dependency
+```
+pip install numpy
+```
+
+
 ### Usage
 
 Add submodule to your repository:
