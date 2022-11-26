@@ -13,7 +13,7 @@ pip install numpy
 
 Add submodule to your repository:
 ```
-git submodule add git@github.com:shihkuanglee/ASVspf-em.git em
+git submodule add https://github.com/shihkuanglee/ASVspf-em.git em
 ```
 
 Then the library is now able to be import:
