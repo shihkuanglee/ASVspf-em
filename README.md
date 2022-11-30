@@ -21,6 +21,10 @@ Then the library is now able to be import:
 import em.eval_metrics_2019 as em
 ```
 
+## Example
+
+https://github.com/shihkuanglee/RD-LCNN/blob/256113e2e232ef85a17e6a8458f8e8eb646e1045/main.py#L188
+
 ## Licensing
 
 This repository is licensed under the [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/), which is same to the licence of the implementation provide by ASVspoof.
